@@ -1,4 +1,4 @@
-# Apna_Netflix
+# Mera_Netflix
 
 This repositore is a work in progress.
 
